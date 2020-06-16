@@ -11,7 +11,7 @@
 /web/coverage
 
 # production
-/web//build
+/web/build
 
 # misc
 /web/.DS_Store
